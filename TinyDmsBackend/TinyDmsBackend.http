@@ -1,0 +1,6 @@
+@TinyDmsBackend_HostAddress = http://localhost:5253
+
+GET {{TinyDmsBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
